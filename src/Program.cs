@@ -8,4 +8,3 @@ while (session_user == null)
 {
     session_user = Console.ReadLine();
 }
-

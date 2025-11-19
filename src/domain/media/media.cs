@@ -1,4 +1,4 @@
-
+namespace workshop;
 public abstract class Media
 {
     public string mediaType; 

@@ -1,3 +1,5 @@
+namespace workshop;
+
 interface IUser()
 {
     
