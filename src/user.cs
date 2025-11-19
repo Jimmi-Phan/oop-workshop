@@ -1,6 +1,4 @@
-//Library
-using System.ComponentModel;
-using System.Net.Http.Headers;
+namespace workshop;
 
 abstract class User
 {

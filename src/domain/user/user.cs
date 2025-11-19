@@ -1,6 +1,4 @@
-//Library
-using System.ComponentModel;
-using System.Net.Http.Headers;
+namespace workshop;
 
 abstract class User
 {
@@ -22,12 +20,12 @@ class Borrower : User
 
     public List<Media> getLoans()
     {
-        
+        return borrowedMedia;
     }
 
-    public void loan()
+    public void loan(string request)
     {
-        
+        foreach (Media files in borrowed);
     }
 
     public void returnMedia()
