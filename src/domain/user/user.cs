@@ -40,5 +40,3 @@ class Borrower : User
         
     }
 }
-
-
