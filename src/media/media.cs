@@ -1,5 +1,5 @@
 
-abstract class Media
+public abstract class Media
 {
     public string mediaType; 
     public bool isBorrowed; 
